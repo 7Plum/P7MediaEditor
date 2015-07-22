@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:7PMediaEditor.xcodeproj">
+      location = "self:P7MediaEditorDemo.xcodeproj">
    </FileRef>
 </Workspace>
